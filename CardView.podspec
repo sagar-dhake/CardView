@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
 
 s.name         = "CardView"
 s.version      = "1.0.0"
+s.swift_version = "4.2" 
 s.summary      = "CardView is completely customisable UIView with gradient background color"
 s.description  = "CardView is completely customisable UIView with gradient background color. It is use in any iOS app"
 s.homepage     = "https://github.com/sagar-dhake/CardView"
